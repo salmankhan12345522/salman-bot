@@ -20,6 +20,8 @@
 <a href="https://github.com/dominator454/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/dominator454/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=dominator454&theme=minimal)
+
 
 <!-- Requirements -->
 <b><details><summary>Requirements</summary></b>
